@@ -9,6 +9,10 @@ An Amazon Cloud Drive lsync configuration that supports live-sync and encryption
 - encfs
 - acd_cli
 
+### Add-ons
+
+- lsyncd-status-indicator - An applet to control this lsyncd configuration and report on the status in the notifcation tray. https://github.com/synace/lsyncd-status-indicator
+
 ### Configuration
 
 ### ***acd_path***
